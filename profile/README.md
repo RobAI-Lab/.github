@@ -3,7 +3,7 @@
 
 🙋‍♀️ Our official website is [http://www.robai-lab.com/](http://www.robai-lab.com/)
 
-🌈 You can reach us at [HainanU_arai@163.com](mailto:HainanU_arai@163.com)
+🌈 You can contact us at [robai-club@hainanu.edu.cn](mailto:robai-club@hainanu.edu.cn)
 
 👩‍💻 You can see our wonderful work in the pinned project below.
 
